@@ -2,21 +2,17 @@
   "private": true,
   "author": "The Islnad (git://github.com/The-Island)",
   "name": "island-events",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/The-Island/island-events.git"
   },
   "main": "lib/events",
   "dependencies": {
-    "island-collections": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-collections.git#develop",
-    "island-util": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-util.git#develop",
-    "underscore": "^1.4.4",
-    "underscore.string": "~2.3.1",
+    "island-collections": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-collections.git#update",
+    "island-util": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-util.git#update",
+    "underscore": "~1.8.3",
     "underscore.deep": "^0.5.1",
-    "step": "0.0.5"
-  },
-  "engines": {
-    "node": "~0.10.31"
+    "step": "1.0.0"
   }
 }
