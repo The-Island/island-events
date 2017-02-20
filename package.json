@@ -12,7 +12,7 @@
     "island-collections": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-collections.git#update",
     "island-util": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-util.git#update",
     "underscore": "~1.8.3",
-    "underscore.deep": "^0.5.1",
+    "underscore.deep": "0.3.0",
     "step": "1.0.0"
   }
 }
