@@ -9,8 +9,8 @@
   },
   "main": "lib/events",
   "dependencies": {
-    "island-collections": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-collections.git#update",
-    "island-util": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-util.git#update",
+    "island-collections": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-collections.git#0.0.2",
+    "island-util": "git+https://github.com/The-Island/island-util.git#0.0.2",
     "underscore": "~1.8.3",
     "step": "1.0.0"
   }
