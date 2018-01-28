@@ -8,7 +8,7 @@
   },
   "main": "lib/events",
   "dependencies": {
-    "@islandio/collections": "^0.0.3",
+    "@islandio/collections": "^0.0.4",
     "@islandio/util": "^0.0.4",
     "underscore": "~1.8.3",
     "step": "1.0.0"
