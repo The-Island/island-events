@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@islandio/collections@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@islandio/collections/-/collections-0.0.3.tgz#364777255da9fd499f662b25024d315171cd3106"
+"@islandio/collections@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@islandio/collections/-/collections-0.0.4.tgz#e75e12ef2d8721525830590c2f3dfbcf01021264"
   dependencies:
     "@islandio/util" "^0.0.4"
     step "1.0.0"
