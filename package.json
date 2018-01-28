@@ -1,7 +1,6 @@
 {
-  "private": true,
   "author": "The Islnad (git://github.com/The-Island)",
-  "name": "island-events",
+  "name": "@islandio/events",
   "version": "0.0.2",
   "repository": {
     "type": "git",
@@ -9,8 +8,8 @@
   },
   "main": "lib/events",
   "dependencies": {
-    "island-collections": "git+https://island-ebs:i51andghebs@github.com/The-Island/island-collections.git#0.0.2",
-    "island-util": "git+https://github.com/The-Island/island-util.git#0.0.2",
+    "@islandio/collections": "^0.0.3",
+    "@islandio/util": "^0.0.4",
     "underscore": "~1.8.3",
     "step": "1.0.0"
   }
